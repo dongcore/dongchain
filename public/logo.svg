@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Hexagon outer ring -->
+  <polygon points="50,5 90,27.5 90,72.5 50,95 10,72.5 10,27.5"
+           fill="#f97316" opacity="0.15" stroke="#f97316" stroke-width="2"/>
+  <!-- Inner hexagon -->
+  <polygon points="50,18 78,33.5 78,66.5 50,82 22,66.5 22,33.5"
+           fill="#f97316" opacity="0.25"/>
+  <!-- RISC-V inspired circuit lines -->
+  <line x1="50" y1="18" x2="50" y2="35" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="50" y1="65" x2="50" y2="82" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="33.5" x2="63" y2="42" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="37" y1="58" x2="22" y2="66.5" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="22" y1="33.5" x2="37" y2="42" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="63" y1="58" x2="78" y2="66.5" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Center D symbol -->
+  <text x="50" y="58" text-anchor="middle" font-family="'Courier New', monospace"
+        font-weight="bold" font-size="26" fill="#f97316">D</text>
+</svg>
