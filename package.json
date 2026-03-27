@@ -1,6 +1,7 @@
 {
   "name": "dongchain-docs",
   "version": "1.0.0",
+  "type": "module",
   "description": "Dong Chain — Technical Documentation & Wiki",
   "scripts": {
     "docs:dev": "vitepress dev",
